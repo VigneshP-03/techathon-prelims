@@ -4,7 +4,7 @@
 It is a simple login system with forgot password option built in PHP.
 
 XAMPP with MySQL is used as a database.
-To run this project, create a database named 'login' and import login.sql or login.txt into it for table creation.
+To run this project, create a database named 'login' and import login.sql into it for table creation.
 
 Developed by
 <ul>
