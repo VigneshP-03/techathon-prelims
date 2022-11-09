@@ -1,0 +1,15 @@
+===Database login
+
+== Table structure for table users
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(50)|No|
+|username|varchar(255)|No|
+|password|varchar(255)|No|
+|email|varchar(255)|No|
+== Dumping data for table users
+
+|1|vicky|$2y$10$81Gdfy.khaExt1tFXIqfEu3VFAbzNngYbpN4dXnYMXrCMbGjYTjl.|vignesh182021@gmail.com
+|2|yuva|$2y$10$9Mj7p8ZVkIyo/Err3baFCeP3ZlseGoVEufa03zWC8lQPbvIBmYU.u|yuva200324@gmail.com
