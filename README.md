@@ -1,5 +1,5 @@
 # techathon-prelims
-Login System for Techathon Product Development Prelims 2022
+<b>Submission for Techathon 2022 - Product Development Prelims Round</b>
 
 It is a simple login system with forgot password option built in PHP.
 
